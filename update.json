@@ -1,5 +1,5 @@
 {
   "version": 9,
-  "message": "Se agregaron promedios y record por nivel y se corrigieron errores varios y ya se puede descargar por datos las actualizaciones",
+  "message": "Se arreglo que el bug jugar un nivel ya ganado",
   "download_url": "https://drive.google.com/uc?export=download&id=1obnxW0I6uEbsEWHgSq0Neu5ZeriH9-eh"
 }
